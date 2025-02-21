@@ -1,3 +1,7 @@
+#Project by NOSFYT
+#Github link: https://github.com/fjgimeno
+#project link: https://github.com/fjgimeno/MRAO_Unpacker
+
 from PIL import Image
 import sys
 import os.path
