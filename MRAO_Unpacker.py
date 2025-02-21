@@ -1,4 +1,4 @@
-#Project by NOSFYT
+#Project by NOSFYT / FJGimeno
 #Github link: https://github.com/fjgimeno
 #project link: https://github.com/fjgimeno/MRAO_Unpacker
 
