@@ -12,6 +12,7 @@ Example usage:
     Open a Command prompt window (Windows_Key + r, write CMD, press enter)
     Input the following command: ".\MRAO_Unpacker.exe ImagePath.ext (Optional)OutputPath"
     When not supplying an output path, a folder will be created where the executable is (if not, check the parent folder)
+    You can also drag and drop an image file onto the executable.
 
 
   Build from source (Windows):
